@@ -1,0 +1,27 @@
+
+Steps in fastfood ordering system
+
+1.Download XAMPP
+
+2.Download "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+
+3."fastfood"
+
+4. Download the zip file/ download winrar
+
+5. Extract the file and copy "fastfood" folder
+
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs) 
+
+7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+8. Create a database with name: fastfood
+
+9. Run the script http://localhost/fastfood
+
+
+
+
+
+
+
